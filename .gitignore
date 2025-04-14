@@ -1,0 +1,33 @@
+# multimc files
+natives/
+instance.cfg
+mmc-pack.json
+
+# minecraft files
+coremods/
+defaultconfigs/
+journeymap/
+logs/
+patchouli_books/
+resourcepacks/
+saves/
+schematics/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+tlm_custom_pack/
+*.log
+*.png
+*.txt
+*.json
+*.dat
+*.dat_old
+*.marker
+
+# config files
+config/
+
+# tlauncher trash files
+Old Eden.jar
+tl_skin_*
