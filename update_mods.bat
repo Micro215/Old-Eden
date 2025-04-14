@@ -14,7 +14,7 @@ del mods.zip
 
 mkdir .\mods
 
-xcopy .\mods_temp\Old-Eden-main\.minecraft\mods .\mods /s /e /h
+xcopy .\mods_temp\Old-Eden-main\mods .\mods /s /e /h
 
 rmdir .\mods_temp /s /q
 
