@@ -4,7 +4,7 @@ setlocal
 
 set REPO_URL=https://github.com/Micro215/Old-Eden/archive/refs/heads/main.zip
 
-curl -L -o mods.zip %REPO_URL%
+curl --ssl-no-revoke -L -o mods.zip %REPO_URL%
 
 rmdir .\mods /s /q
 
